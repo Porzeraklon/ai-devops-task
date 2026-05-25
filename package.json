@@ -1,0 +1,13 @@
+{
+  "name": "ai-devops-task",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Node app for Docker DevOps exercise",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
