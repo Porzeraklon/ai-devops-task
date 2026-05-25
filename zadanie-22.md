@@ -1,0 +1,1 @@
+dokumentacja jest git gut
